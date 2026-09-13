@@ -6,7 +6,7 @@ other modern application that wants an authentic retro terminal look.
 
 ## Background
 
-Back in 2014 I asked on [LinuxQuestions.org](https://www.linuxquestions.org/questions/slackware-14/converting-classic-slackware-fonts-fnt-to-truetype-fonts-4175536834-print/)
+Back in 2015 I asked on [LinuxQuestions.org](https://www.linuxquestions.org/questions/slackware-14/converting-classic-slackware-fonts-fnt-to-truetype-fonts-4175536834-print/)
 whether anyone had figured out how to convert the classic Slackware `.FNT`
 console fonts to TrueType. A working solution eluded me for over a decade —
 until, with the help of Hermes Agent running Qwen3.8-27B, one finally turned
