@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Slackware console font sources (redistribution rights unclear)
+*.FNT
